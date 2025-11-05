@@ -23,4 +23,5 @@ public partial class WidgetViewComponent : NopViewComponent
 
         return View(model);
     }
+
 }
